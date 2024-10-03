@@ -36,6 +36,7 @@ Throughout the internship, I will be completing the following tasks:
   - Withdraw, deposit, and check balance options.
   - Create methods such as `withdraw()`, `deposit()`, and `checkBalance()`.
   - Validate transactions and display appropriate messages.
+  - **PIN to access ATM :** `2024`
 
 ### Task 2 : Currency Converter
 - **Objective :** Develop a currency converter tool.
